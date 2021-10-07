@@ -29,3 +29,4 @@ console.log(
 );
 console.log(maxSubArray([], 4));
 console.log(maxSubArray([4, 2, 1, 6, 2], 4));
+console.log(maxSubArray([10, 20, 30, 40], 2));
